@@ -1,3 +1,5 @@
+# created by Xin Li 2017/11/02
+# to do statistics of corpus
 
 with open('D:\\python_projects\\SpiderOne\\plosone.csv', "r", encoding='utf-8') as file:
     # print file header
